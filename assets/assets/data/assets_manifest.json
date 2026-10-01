@@ -1,0 +1,256 @@
+{
+  "states": [
+    "assets/images/states/andhra_pradesh.jpg",
+    "assets/images/states/arunachal_pradesh.jpg",
+    "assets/images/states/assam.jpg",
+    "assets/images/states/bihar.jpg",
+    "assets/images/states/chhattisgarh.jpg",
+    "assets/images/states/goa.jpg",
+    "assets/images/states/gujarat.jpg",
+    "assets/images/states/haryana.jpg",
+    "assets/images/states/himachal_pradesh.jpg",
+    "assets/images/states/jharkhand.jpg",
+    "assets/images/states/karnataka.jpg",
+    "assets/images/states/kerala.jpg",
+    "assets/images/states/madhya_pradesh.jpg",
+    "assets/images/states/maharashtra.jpg",
+    "assets/images/states/manipur.jpg",
+    "assets/images/states/meghalaya.jpg",
+    "assets/images/states/mizoram.jpg",
+    "assets/images/states/nagaland.jpg",
+    "assets/images/states/odisha.jpg",
+    "assets/images/states/punjab.jpg",
+    "assets/images/states/rajasthan.jpg",
+    "assets/images/states/sikkim.jpg",
+    "assets/images/states/tamil_nadu.jpg",
+    "assets/images/states/telangana.jpg",
+    "assets/images/states/tripura.jpg",
+    "assets/images/states/uttar_pradesh.jpg",
+    "assets/images/states/uttarakhand.jpg",
+    "assets/images/states/west_bengal.jpg"
+  ],
+  "crafts": {
+    "cr_bandhani": [
+      "assets/images/crafts/textiles/bandhani.jpg"
+    ],
+    "cr_patola": [
+      "assets/images/crafts/textiles/patola.jpg"
+    ],
+    "cr_ajrakh": [
+      "assets/images/crafts/textiles/ajrakh.jpg"
+    ],
+    "cr_rogan_art": [
+      "assets/images/crafts/paintings/rogan_art.jpg"
+    ],
+    "cr_blue_pottery": [
+      "assets/images/crafts/pottery/blue_pottery.jpg"
+    ],
+    "cr_bagru_print": [
+      "assets/images/crafts/textiles/bagru_print.jpg"
+    ],
+    "cr_sanganeri_print": [
+      "assets/images/crafts/textiles/sanganeri_print.jpg"
+    ],
+    "cr_meenakari": [
+      "assets/images/crafts/jewellery/meenakari.jpg"
+    ],
+    "cr_pashmina": [
+      "assets/images/crafts/textiles/pashmina.jpg"
+    ],
+    "cr_papier_mache": [
+      "assets/images/crafts/homedecor/papier_mache.jpg"
+    ],
+    "cr_phulkari": [
+      "assets/images/crafts/embroidery/phulkari.jpg"
+    ],
+    "cr_jutti": [
+      "assets/images/crafts/leathercraft/jutti.jpg"
+    ],
+    "cr_banarasi_silk": [
+      "assets/images/crafts/textiles/banarasi_silk.jpg"
+    ],
+    "cr_chikankari": [
+      "assets/images/crafts/embroidery/chikankari.jpg"
+    ],
+    "cr_moradabad_brass": [
+      "assets/images/crafts/metalcraft/moradabad_brass.jpg"
+    ],
+    "cr_madhubani": [
+      "assets/images/crafts/paintings/madhubani.jpg"
+    ],
+    "cr_sikki_grass": [
+      "assets/images/crafts/ecofriendly/sikki_grass.jpg"
+    ],
+    "cr_dokra": [
+      "assets/images/crafts/metalcraft/dokra.jpg"
+    ],
+    "cr_kantha": [
+      "assets/images/crafts/embroidery/kantha.jpg"
+    ],
+    "cr_bankura_terracotta": [
+      "assets/images/crafts/pottery/bankura_terracotta.jpg"
+    ],
+    "cr_pattachitra": [
+      "assets/images/crafts/paintings/pattachitra.jpg"
+    ],
+    "cr_pipli_applique": [
+      "assets/images/crafts/homedecor/pipli_applique.jpg"
+    ],
+    "cr_gond_painting": [
+      "assets/images/crafts/paintings/gond_painting.jpg"
+    ],
+    "cr_chanderi": [
+      "assets/images/crafts/textiles/chanderi.jpg"
+    ],
+    "cr_warli": [
+      "assets/images/crafts/paintings/warli.jpg"
+    ],
+    "cr_paithani": [
+      "assets/images/crafts/textiles/paithani.jpg"
+    ],
+    "cr_mysore_silk": [
+      "assets/images/crafts/textiles/mysore_silk.jpg"
+    ],
+    "cr_channapatna_toys": [
+      "assets/images/crafts/toys/channapatna_toys.jpg"
+    ],
+    "cr_bidriware": [
+      "assets/images/crafts/metalcraft/bidriware.jpg"
+    ],
+    "cr_sandalwood_carving": [
+      "assets/images/crafts/woodcraft/sandalwood_carving.jpg"
+    ],
+    "cr_kanchipuram_silk": [
+      "assets/images/crafts/textiles/kanchipuram_silk.jpg"
+    ],
+    "cr_tanjore_painting": [
+      "assets/images/crafts/paintings/tanjore_painting.jpg"
+    ],
+    "cr_toda_embroidery": [
+      "assets/images/crafts/embroidery/toda_embroidery.jpg"
+    ],
+    "cr_coir_craft": [
+      "assets/images/crafts/ecofriendly/coir_craft.jpg"
+    ],
+    "cr_aranmula_mirror": [
+      "assets/images/crafts/metalcraft/aranmula_mirror.jpg"
+    ],
+    "cr_nettur_petti": [
+      "assets/images/crafts/woodcraft/nettur_petti.jpg"
+    ],
+    "cr_kalamkari": [
+      "assets/images/crafts/textiles/kalamkari.jpg"
+    ],
+    "cr_kondapalli": [
+      "assets/images/crafts/toys/kondapalli_toys.jpg"
+    ],
+    "cr_pochampally_ikat": [
+      "assets/images/crafts/textiles/pochampally_ikat.jpg"
+    ],
+    "cr_nirmal_painting": [
+      "assets/images/crafts/paintings/nirmal_painting.jpg"
+    ],
+    "cr_muga_silk": [
+      "assets/images/crafts/textiles/muga_silk.jpg"
+    ],
+    "cr_bamboo_basketry": [
+      "assets/images/crafts/bamboo/bamboo_basketry.jpg"
+    ],
+    "cr_naga_shawl": [
+      "assets/images/crafts/textiles/naga_shawl.jpg"
+    ],
+    "cr_black_pottery": [
+      "assets/images/crafts/pottery/black_pottery.jpg"
+    ],
+    "cr_bastar_iron": [
+      "assets/images/crafts/metalcraft/bastar_iron.jpg"
+    ],
+    "cr_coconut_shell": [
+      "assets/images/crafts/ecofriendly/coconut_shell.jpg"
+    ],
+    "cr_kullu_shawl": [
+      "assets/images/crafts/textiles/kullu_shawl.jpg"
+    ],
+    "cr_ringaal_bamboo": [
+      "assets/images/crafts/bamboo/ringaal_bamboo.jpg"
+    ],
+    "cr_tripura_cane": [
+      "assets/images/crafts/bamboo/tripura_cane.jpg"
+    ],
+    "cr_monpa_wood": [
+      "assets/images/crafts/woodcraft/monpa_wood.jpg"
+    ]
+  },
+  "artisans": [
+    "assets/images/artisans/khatri_abdul_rahim.jpg",
+    "assets/images/artisans/devendra_kumar.jpg",
+    "assets/images/artisans/surayya_khatoon.jpg",
+    "assets/images/artisans/kripal_singh.jpg",
+    "assets/images/artisans/yasin_bhat.jpg",
+    "assets/images/artisans/swaminathan_achari.jpg",
+    "assets/images/artisans/sita_devi.jpg",
+    "assets/images/artisans/bhuri_bai.jpg",
+    "assets/images/artisans/jivya_mashe.jpg",
+    "assets/images/artisans/sadasivam_chettiar.jpg",
+    "assets/images/artisans/rameshwar_sharma.jpg",
+    "assets/images/artisans/gurmeet_kaur.jpg",
+    "assets/images/artisans/rajab_ali.jpg",
+    "assets/images/artisans/govind_suthar.jpg",
+    "assets/images/artisans/rashid_ahmed.jpg",
+    "assets/images/artisans/ruma_devi.jpg",
+    "assets/images/artisans/tenzing_norbu.jpg",
+    "assets/images/artisans/prabhat_maharana.jpg",
+    "assets/images/artisans/lakshmi_narayana.jpg",
+    "assets/images/artisans/jagannatham.jpg",
+    "assets/images/artisans/biren_basumatary.jpg",
+    "assets/images/artisans/moa_ao.jpg",
+    "assets/images/artisans/machihan_sasa.jpg",
+    "assets/images/artisans/sonam_stobdan.jpg",
+    "assets/images/artisans/shambhu_karmakar.jpg",
+    "assets/images/artisans/subhashish_dey.jpg",
+    "assets/images/artisans/vasudevan_namboothiri.jpg",
+    "assets/images/artisans/champa_devi.jpg",
+    "assets/images/artisans/debbarma_manik.jpg",
+    "assets/images/artisans/anusuya_toda.jpg"
+  ],
+  "festivals": [
+    "assets/images/festivals/diwali.jpg",
+    "assets/images/festivals/holi.jpg",
+    "assets/images/festivals/navratri.jpg",
+    "assets/images/festivals/durga_puja.jpg",
+    "assets/images/festivals/onam.jpg",
+    "assets/images/festivals/pongal.jpg",
+    "assets/images/festivals/bihu.jpg",
+    "assets/images/festivals/ganesh_chaturthi.jpg",
+    "assets/images/festivals/rath_yatra.jpg",
+    "assets/images/festivals/lohri.jpg",
+    "assets/images/festivals/makar_sankranti.jpg",
+    "assets/images/festivals/ugadi.jpg",
+    "assets/images/festivals/vishu.jpg",
+    "assets/images/festivals/hornbill.jpg",
+    "assets/images/festivals/pushkar.jpg"
+  ],
+  "homeBanners": [
+    "assets/images/banners/banner_hero_map.jpg",
+    "assets/images/banners/banner_patola.jpg",
+    "assets/images/banners/banner_pashmina.jpg",
+    "assets/images/banners/banner_banarasi.jpg",
+    "assets/images/banners/banner_madhubani.jpg",
+    "assets/images/banners/banner_kanchipuram.jpg",
+    "assets/images/banners/banner_aranmula.jpg",
+    "assets/images/banners/banner_ai_studio.jpg",
+    "assets/images/banners/banner_artisan_empowerment.jpg",
+    "assets/images/banners/banner_gi_verify.jpg"
+  ],
+  "logos": {
+    "primary": "assets/images/logos/virasat_logo.png",
+    "secondary": "assets/images/logos/virasat_symbol.png",
+    "monochrome": "assets/images/logos/virasat_mono.png",
+    "gi_certified": "assets/images/logos/gi_tag_badge.png"
+  },
+  "maps": [
+    "assets/maps/india_map.svg",
+    "assets/maps/india_outline.svg",
+    "assets/maps/state_paths.json"
+  ]
+}

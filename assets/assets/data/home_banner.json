@@ -1,0 +1,62 @@
+[
+  {
+    "title": "VIRASAT — Crafted by India",
+    "subtitle": "Discover authentic GI-tagged masterpieces directly from master artisans across 28 Indian states.",
+    "ctaText": "Explore Map",
+    "imagePath": "assets/images/banners/banner_hero_map.jpg"
+  },
+  {
+    "title": "Patola of Patan",
+    "subtitle": "The double ikat silk marvel of Gujarat crafted over 6 months with natural plant dyes.",
+    "ctaText": "View Craft",
+    "imagePath": "assets/images/banners/banner_patola.jpg"
+  },
+  {
+    "title": "Royal Pashmina of Kashmir",
+    "subtitle": "Hand-spun fine cashmere woven on traditional wooden looms in the valleys of Ladakh & Kashmir.",
+    "ctaText": "Discover Story",
+    "imagePath": "assets/images/banners/banner_pashmina.jpg"
+  },
+  {
+    "title": "Banarasi Silk Weaves",
+    "subtitle": "Timeless brocades woven with gold and silver zari for royalty and celebrations.",
+    "ctaText": "Explore Collection",
+    "imagePath": "assets/images/banners/banner_banarasi.jpg"
+  },
+  {
+    "title": "Madhubani Folk Paintings",
+    "subtitle": "Sacred Mithila art painted with twig brushes and natural earth pigments from Bihar.",
+    "ctaText": "Meet Artisans",
+    "imagePath": "assets/images/banners/banner_madhubani.jpg"
+  },
+  {
+    "title": "Kanchipuram Temple Weaves",
+    "subtitle": "Pure mulberry silk sarees woven with contrast borders inspired by South Indian temple motifs.",
+    "ctaText": "Shop Handloom",
+    "imagePath": "assets/images/banners/banner_kanchipuram.jpg"
+  },
+  {
+    "title": "Aranmula Metal Mirror",
+    "subtitle": "Secret copper-tin alloy metallurgical miracle crafted exclusively in Aranmula village, Kerala.",
+    "ctaText": "Learn Secret",
+    "imagePath": "assets/images/banners/banner_aranmula.jpg"
+  },
+  {
+    "title": "AI Studio & Storyteller",
+    "subtitle": "Transform craft photos into captivating heritage stories and multi-lingual marketing content.",
+    "ctaText": "Try AI Studio",
+    "imagePath": "assets/images/banners/banner_ai_studio.jpg"
+  },
+  {
+    "title": "Empowering Rural Artisans",
+    "subtitle": "Connecting over 50,000 artisan families directly with global patrons with 100% fair payout.",
+    "ctaText": "Support Artisans",
+    "imagePath": "assets/images/banners/banner_artisan_empowerment.jpg"
+  },
+  {
+    "title": "GI Heritage Certification",
+    "subtitle": "Every product comes with blockchain-backed authenticity QR certificate and origin trace.",
+    "ctaText": "Verify Product",
+    "imagePath": "assets/images/banners/banner_gi_verify.jpg"
+  }
+]
