@@ -1,0 +1,184 @@
+[
+  {
+    "id": "fest_diwali",
+    "title": "Diwali - Festival of Lights",
+    "stateId": "IN-UP",
+    "month": "October - November",
+    "description": "Celebrated nationwide with lamps, rangoli, and auspicious metalwork gifts.",
+    "associatedCrafts": [
+      "cr_banarasi_silk",
+      "cr_moradabad_brass"
+    ],
+    "imageUrl": "assets/images/festivals/diwali.jpg"
+  },
+  {
+    "id": "fest_holi",
+    "title": "Holi - Festival of Colors",
+    "stateId": "IN-UP",
+    "month": "March",
+    "description": "Vibrant spring festival featuring natural dye celebrations, herbal colors, and traditional folk music.",
+    "associatedCrafts": [
+      "cr_chikankari",
+      "cr_bagru_print"
+    ],
+    "imageUrl": "assets/images/festivals/holi.jpg"
+  },
+  {
+    "id": "fest_navratri",
+    "title": "Navratri & Garba",
+    "stateId": "IN-GJ",
+    "month": "October",
+    "description": "Nine nights of rhythmic folk dance with stunning Bandhani tie-dye attire and mirror-work embroidery.",
+    "associatedCrafts": [
+      "cr_bandhani",
+      "cr_patola",
+      "cr_ajrakh"
+    ],
+    "imageUrl": "assets/images/festivals/navratri.jpg"
+  },
+  {
+    "id": "fest_durga_puja",
+    "title": "Durga Puja",
+    "stateId": "IN-WB",
+    "month": "October",
+    "description": "Grand socio-cultural celebration featuring spectacular pandal art, Kantha embroidery, and clay idols.",
+    "associatedCrafts": [
+      "cr_kantha",
+      "cr_bankura_terracotta"
+    ],
+    "imageUrl": "assets/images/festivals/durga_puja.jpg"
+  },
+  {
+    "id": "fest_onam",
+    "title": "Onam Harvest Festival",
+    "stateId": "IN-KL",
+    "month": "August - September",
+    "description": "Kerala harvest festival showcasing snake boat races, traditional Kasavu handlooms, and coir decor.",
+    "associatedCrafts": [
+      "cr_coir_craft",
+      "cr_aranmula_mirror",
+      "cr_nettur_petti"
+    ],
+    "imageUrl": "assets/images/festivals/onam.jpg"
+  },
+  {
+    "id": "fest_pongal",
+    "title": "Pongal Harvest Festival",
+    "stateId": "IN-TN",
+    "month": "January",
+    "description": "Tamil Nadu harvest festival worshipping the Sun God, adorned with Kanchipuram silk sarees and Kolam art.",
+    "associatedCrafts": [
+      "cr_kanchipuram_silk",
+      "cr_tanjore_painting"
+    ],
+    "imageUrl": "assets/images/festivals/pongal.jpg"
+  },
+  {
+    "id": "fest_bihu",
+    "title": "Rongali Bihu",
+    "stateId": "IN-AS",
+    "month": "April",
+    "description": "Assamese spring harvest festival marked by folk dance in exquisite golden Muga silk mekhela chadors.",
+    "associatedCrafts": [
+      "cr_muga_silk",
+      "cr_bamboo_basketry"
+    ],
+    "imageUrl": "assets/images/festivals/bihu.jpg"
+  },
+  {
+    "id": "fest_ganesh_chaturthi",
+    "title": "Ganesh Chaturthi",
+    "stateId": "IN-MH",
+    "month": "August - September",
+    "description": "Celebration of Lord Ganesha featuring hand-molded terracotta idols and traditional Paithani silk drapery.",
+    "associatedCrafts": [
+      "cr_paithani",
+      "cr_warli"
+    ],
+    "imageUrl": "assets/images/festivals/ganesh_chaturthi.jpg"
+  },
+  {
+    "id": "fest_rath_yatra",
+    "title": "Puri Rath Yatra",
+    "stateId": "IN-OR",
+    "month": "June - July",
+    "description": "Grand chariot festival displaying traditional Pattachitra painted icons and Pipli applique canopies.",
+    "associatedCrafts": [
+      "cr_pattachitra",
+      "cr_pipli_applique"
+    ],
+    "imageUrl": "assets/images/festivals/rath_yatra.jpg"
+  },
+  {
+    "id": "fest_lohri",
+    "title": "Lohri",
+    "stateId": "IN-PB",
+    "month": "January",
+    "description": "Winter harvest festival of Punjab featuring vibrant Phulkari dupattas, folk music, and bonfire gatherings.",
+    "associatedCrafts": [
+      "cr_phulkari",
+      "cr_jutti"
+    ],
+    "imageUrl": "assets/images/festivals/lohri.jpg"
+  },
+  {
+    "id": "fest_makar_sankranti",
+    "title": "Makar Sankranti & Kite Festival",
+    "stateId": "IN-RJ",
+    "month": "January",
+    "description": "Solar harvest festival celebrated with kite flying, block printed quilts, and brass sweets platters.",
+    "associatedCrafts": [
+      "cr_blue_pottery",
+      "cr_sanganeri_print"
+    ],
+    "imageUrl": "assets/images/festivals/makar_sankranti.jpg"
+  },
+  {
+    "id": "fest_ugadi",
+    "title": "Ugadi New Year",
+    "stateId": "IN-KA",
+    "month": "March - April",
+    "description": "Deccan New Year celebrated with floral decorations, sandalwood fragrance, and handloom silks.",
+    "associatedCrafts": [
+      "cr_mysore_silk",
+      "cr_channapatna_toys",
+      "cr_sandalwood_carving"
+    ],
+    "imageUrl": "assets/images/festivals/ugadi.jpg"
+  },
+  {
+    "id": "fest_vishu",
+    "title": "Vishu New Year",
+    "stateId": "IN-KL",
+    "month": "April",
+    "description": "Malayali New Year showcasing auspicious Vishukkani arrangements, polished brass lamps, and Aranmula mirrors.",
+    "associatedCrafts": [
+      "cr_aranmula_mirror",
+      "cr_nettur_petti"
+    ],
+    "imageUrl": "assets/images/festivals/vishu.jpg"
+  },
+  {
+    "id": "fest_hornbill",
+    "title": "Hornbill Festival",
+    "stateId": "IN-NL",
+    "month": "December",
+    "description": "Inter-tribal cultural extravaganza showcasing indigenous Naga woven shawls, woodcraft, and warrior dances.",
+    "associatedCrafts": [
+      "cr_naga_shawl"
+    ],
+    "imageUrl": "assets/images/festivals/hornbill.jpg"
+  },
+  {
+    "id": "fest_pushkar",
+    "title": "Pushkar Camel Fair",
+    "stateId": "IN-RJ",
+    "month": "November",
+    "description": "World famous cultural fair featuring traditional puppet shows, leather craft, and Meenakari jewelry.",
+    "associatedCrafts": [
+      "cr_meenakari",
+      "cr_bagru_print"
+    ],
+    "imageUrl": "assets/images/festivals/pushkar.jpg"
+  }
+]

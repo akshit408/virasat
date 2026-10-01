@@ -1,0 +1,402 @@
+[
+  {
+    "craftId": "cr_bandhani",
+    "origin": "Originated in Jamnagar, IN-GJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Bandhani has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Pure Silk, Georgette, Cotton, Natural Dyes, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_patola",
+    "origin": "Originated in Patan, IN-GJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Patola has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Mulberry Silk, Natural Dyes, Gold Zari, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_ajrakh",
+    "origin": "Originated in Ajrakhpur, IN-GJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Ajrakh has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Cotton, Natural Indigo, Madder Root, Wooden Blocks, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_rogan_art",
+    "origin": "Originated in Nirona, IN-GJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Rogan Art has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Castor Oil Paste, Natural Pigments, Metal Stylus, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_blue_pottery",
+    "origin": "Originated in Jaipur, IN-RJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Blue Pottery has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Quartz Powder, Glass, Multani Mitti, Cobalt Oxide, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_bagru_print",
+    "origin": "Originated in Bagru, IN-RJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Bagru Print has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Cotton, Dabu Mud Paste, Harda, Natural Indigo, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_sanganeri_print",
+    "origin": "Originated in Sanganer, IN-RJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Sanganeri Print has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Mulberry Silk, Cotton, Teak Wooden Blocks, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_meenakari",
+    "origin": "Originated in Jaipur, IN-RJ, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Meenakari has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Gold, Silver, Enamel Dust, Precious Gems, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_pashmina",
+    "origin": "Originated in Srinagar, IN-JK, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Pashmina has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Changthangi Goat Pashm Wool, Handspun Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_papier_mache",
+    "origin": "Originated in Srinagar, IN-JK, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Papier-Mâché has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Paper Pulp, Rice Straw, Mineral Paints, Gold Leaf, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_phulkari",
+    "origin": "Originated in Patiala, IN-PB, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Phulkari has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Khaddar Cotton, Untwisted Untwined Untwist Pat Silk Floss, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_jutti",
+    "origin": "Originated in Amritsar, IN-PB, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Jutti Craft has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Leather, Brass Wire, Zari Thread, Velvet, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_banarasi_silk",
+    "origin": "Originated in Varanasi, IN-UP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Banarasi Silk has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Pure Katan Silk, Gold Zari, Silver Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_chikankari",
+    "origin": "Originated in Lucknow, IN-UP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Chikankari has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Cotton, Muslin, Organza, White Untwisted Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_moradabad_brass",
+    "origin": "Originated in Moradabad, IN-UP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Moradabad Brassware has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Brass Alloy, Nickel, Engraving Chisels, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_madhubani",
+    "origin": "Originated in Mithila, IN-BR, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Madhubani has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Handmade Paper, Canvas, Natural Plant Dyes, Bamboo Nibs, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_sikki_grass",
+    "origin": "Originated in Madhubani, IN-BR, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Sikki Grass has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Golden Sikki Grass, Natural Dyes, Needle, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_dokra",
+    "origin": "Originated in Kondagaon, IN-CT, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Dokra has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Brass, Beeswax, Clay, Riverbed Sand, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_kantha",
+    "origin": "Originated in Shantiniketan, IN-WB, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Kantha has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Recycled Vintage Silk, Tussar, Cotton Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_bankura_terracotta",
+    "origin": "Originated in Bishnupur, IN-WB, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Bankura Terracotta has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Alluvial Clay, Natural Smoke Fire Kiln, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_pattachitra",
+    "origin": "Originated in Raghurajpur, IN-OR, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Pattachitra has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Treated Cloth Canvas, Mineral Pigments, Conch Shell Powder, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_pipli_applique",
+    "origin": "Originated in Pipli, IN-OR, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Pipli Applique has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Cotton Fabric, Mirrors, Embroidery Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_gond_painting",
+    "origin": "Originated in Dindori, IN-MP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Gond Painting has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Canvas, Charcoal, Organic Tree Colors, Fine Nibs, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_chanderi",
+    "origin": "Originated in Chanderi, IN-MP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Chanderi has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Silk, Unspun Cotton, Real Gold Zari, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_warli",
+    "origin": "Originated in Dahanu, IN-MH, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Warli has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Rice Paste, Red Ochre Mud Canvas, Bamboo Twig, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_paithani",
+    "origin": "Originated in Paithan, IN-MH, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Paithani has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Filature Silk, Pure Silver Zari with Gold Plating, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_mysore_silk",
+    "origin": "Originated in Mysore, IN-KA, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Mysore Silk has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Pure Mulberry Silk, 0.65% Pure Gold Zari Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_channapatna_toys",
+    "origin": "Originated in Channapatna, IN-KA, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Channapatna Toys has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Aale Mara Softwood, Organic Vegetable Dyes, Natural Lac, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_bidriware",
+    "origin": "Originated in Bidar, IN-KA, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Bidriware has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Zinc-Copper Alloy, Pure Silver Wire Inlay, Bidar Fort Soil, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_sandalwood_carving",
+    "origin": "Originated in Shimoga, IN-KA, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Sandalwood Carving has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Fragrant Natural Sandalwood, Fine Carving Chisels, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_kanchipuram_silk",
+    "origin": "Originated in Kanchipuram, IN-TN, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Kanchipuram Silk has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Mulberry Silk, Silver-Gold Zari, Pit Loom Threads, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_tanjore_painting",
+    "origin": "Originated in Thanjavur, IN-TN, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Tanjore Painting has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Teak Wood Board, 22K Gold Foil, Jaipur Gemstones, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_toda_embroidery",
+    "origin": "Originated in Nilgiris, IN-TN, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Toda Embroidery has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Coarse Cotton Fabric, Red & Black Woollen Threads, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_coir_craft",
+    "origin": "Originated in Alleppey, IN-KL, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Coir Craft has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Natural Coconut Husk Coir Fiber, Organic Dyes, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_aranmula_mirror",
+    "origin": "Originated in Aranmula, IN-KL, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Aranmula Mirror has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Secret Copper-Tin Alloy Metal Mirror, Brass Frame, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_nettur_petti",
+    "origin": "Originated in Thrissur, IN-KL, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Nettur Petti has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Rosewood, Brass Fittings, Red Velvet Lining, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_kalamkari",
+    "origin": "Originated in Srikalahasti, IN-AP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Kalamkari has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Cotton Cloth, Bamboo Pen (Kalam), Vegetable & Myrobalan Dyes, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_kondapalli",
+    "origin": "Originated in Kondapalli, IN-AP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Kondapalli Toys has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Tella Poniki Softwood, Water Colors, Tamarind Paste, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_pochampally_ikat",
+    "origin": "Originated in Pochampally, IN-TG, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Pochampally Ikat has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Pure Silk, Fine Cotton, Tie-Dye Resists, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_nirmal_painting",
+    "origin": "Originated in Nirmal, IN-TG, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Nirmal Painting has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Teak Wood Canvas, Herbal Gold Varnish, Mineral Colors, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_muga_silk",
+    "origin": "Originated in Sualkuchi, IN-AS, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Muga Silk has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Golden Muga Silk Thread, Traditional Pit Looms, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_bamboo_basketry",
+    "origin": "Originated in Barpeta, IN-AS, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Bamboo Basketry has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Natural Assam Bamboo, Cane Splits, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_naga_shawl",
+    "origin": "Originated in Kohima, IN-NL, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Naga Shawl has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Highland Wool, Cotton, Backstrap Loom Yarns, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_black_pottery",
+    "origin": "Originated in Longpi, IN-MN, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Black Pottery has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Serpentine Rock Powder, Clay, Wild Machi Leaf Glaze, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_bastar_iron",
+    "origin": "Originated in Jagdalpur, IN-CT, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Bastar Iron Craft has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Wrought Iron, Charcoal Anvil, Black Varnish, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_coconut_shell",
+    "origin": "Originated in Bicholim, IN-GA, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Coconut Shell Craft has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Reclaimed Coconut Shells, Wood Polish, Brass Wire, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_kullu_shawl",
+    "origin": "Originated in Kullu, IN-HP, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Kullu Shawl has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Pure Merino Wool, Pashmina, Handloom Thread, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_ringaal_bamboo",
+    "origin": "Originated in Pithoragarh, IN-UT, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Ringaal Bamboo Craft has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Himalayan Ringaal Bamboo Splits, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_tripura_cane",
+    "origin": "Originated in Agartala, IN-TR, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Tripura Cane Craft has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Tripura Cane, Fine Bamboo Slits, Natural Varnish, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  },
+  {
+    "craftId": "cr_monpa_wood",
+    "origin": "Originated in Tawang, IN-AR, nurtured by master artisan lineages across generations with centuries of artistic dedication.",
+    "history": "Monpa Wood Carving has a rich historical lineage dating back centuries, intertwined with regional royal patronage and sacred temple traditions of India.",
+    "culturalSignificance": "Serves as an indispensable symbol of cultural heritage, ritual celebrations, and community identity during auspicious occasions.",
+    "makingProcess": "Requires intricate manual craftsmanship utilizing traditional materials like Himalayan Softwood, Natural Mineral Pigments, taking days to weeks of dedicated work per piece.",
+    "preservationImportance": "Crucial for sustaining traditional artisan livelihoods, preserving GI-tagged indigenous technical knowledge, and passing craft legacy to future generations."
+  }
+]

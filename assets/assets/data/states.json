@@ -1,0 +1,1161 @@
+[
+  {
+    "code": "IN-GJ",
+    "name": "Gujarat",
+    "capital": "Gandhinagar",
+    "imagePath": "assets/images/states/gujarat.jpg",
+    "featuredCraft": "Bandhani & Patola",
+    "craftSubtitle": "Jamnagar, Patan & Kutch",
+    "giCraftsCount": 18,
+    "registeredArtisans": 45000,
+    "culturalIntro": "Gujarat is a vibrant cradle of Indian craft heritage, renowned worldwide for intricate tie-dye textiles, double-ikat silk weaves, block printing, and metal bell crafts. From the white salt desert of Kutch to the ancient stepwells of Patan, Gujarati artisans preserve centuries-old handcrafting traditions passed down through generations of Rabari, Khatri, and Vankar master craftspeople.",
+    "history": "With maritime trade roots dating back to the Indus Valley Civilization at Lothal, Gujarat's textile and pottery artisans supplied silk and dyed cotton across the Indian Ocean for millennia.",
+    "languages": [
+      "Gujarati",
+      "Kutchi",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Khatri Dyers",
+      "Rabari Embroiderers",
+      "Vankar Weavers",
+      "Luhar Bell-makers"
+    ],
+    "tourismHighlights": [
+      "Rann of Kutch",
+      "Rani ki Vav Patan",
+      "Gir National Park",
+      "Somnath Temple"
+    ],
+    "famousFestivals": [
+      "Navratri Garba",
+      "Rann Utsav",
+      "Uttarayan Kite Festival"
+    ],
+    "famousCuisine": [
+      "Dhokla",
+      "Khandvi",
+      "Thepla",
+      "Undhiyu"
+    ]
+  },
+  {
+    "code": "IN-RJ",
+    "name": "Rajasthan",
+    "capital": "Jaipur",
+    "imagePath": "assets/images/states/rajasthan.jpg",
+    "featuredCraft": "Blue Pottery & Meenakari",
+    "craftSubtitle": "Jaipur, Jodhpur & Sanganer",
+    "giCraftsCount": 24,
+    "registeredArtisans": 62000,
+    "culturalIntro": "Rajasthan embodies royal Indian art and desert folk craft. Famous for Turko-Persian quartz Blue Pottery, intricate gold Meenakari jewellery, wooden Block Prints, and hand-carved leather Mojaris, royal patronage created legendary artisan guilds across Jaipur, Udaipur, and Barmer.",
+    "history": "Under Rajput patronage, master craftsmen from Persia and across India established ateliers in royal palaces, synthesizing Mughlai motifs with traditional Marwari aesthetics.",
+    "languages": [
+      "Rajasthani",
+      "Hindi",
+      "Marwari"
+    ],
+    "traditionalCommunities": [
+      "Kumbhar Potters",
+      "Chhipa Block Printers",
+      "Soni Goldsmiths"
+    ],
+    "tourismHighlights": [
+      "Amer Fort Jaipur",
+      "Lake Palace Udaipur",
+      "Jaisalmer Fort",
+      "Mehrangarh Fort Jodhpur"
+    ],
+    "famousFestivals": [
+      "Pushkar Camel Fair",
+      "Teej Festival",
+      "Gangaur"
+    ],
+    "famousCuisine": [
+      "Dal Baati Churma",
+      "Gatte ki Sabzi",
+      "Ker Sangri",
+      "Laal Maas"
+    ]
+  },
+  {
+    "code": "IN-UP",
+    "name": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "imagePath": "assets/images/states/uttar_pradesh.jpg",
+    "featuredCraft": "Chikankari & Banarasi Silk",
+    "craftSubtitle": "Varanasi, Lucknow & Moradabad",
+    "giCraftsCount": 34,
+    "registeredArtisans": 88000,
+    "culturalIntro": "Uttar Pradesh leads India in registered GI crafts, featuring delicate Lucknow Chikankari shadow embroidery, opulent Banarasi brocade silk sarees, brass metalware from Moradabad, and Nizamabad black clay pottery.",
+    "history": "Nawabi court culture of Lucknow and sacred traditions of Kashi fostered unparalleled master craftsmanship in textiles, zardozi embroidery, and metal casting.",
+    "languages": [
+      "Hindi",
+      "Urdu",
+      "Awadhi",
+      "Bhojpuri"
+    ],
+    "traditionalCommunities": [
+      "Ansari Weavers",
+      "Chikan Karigars",
+      "Kasera Brass Smiths"
+    ],
+    "tourismHighlights": [
+      "Taj Mahal Agra",
+      "Varanasi Ghats",
+      "Bara Imambara Lucknow",
+      "Sarnath"
+    ],
+    "famousFestivals": [
+      "Kumbh Mela",
+      "Dev Deepawali Varanasi",
+      "Taj Mahotsav"
+    ],
+    "famousCuisine": [
+      "Awadhi Biryani",
+      "Galouti Kebab",
+      "Banarasi Paan",
+      "Bedmi Puri"
+    ]
+  },
+  {
+    "code": "IN-WB",
+    "name": "West Bengal",
+    "capital": "Kolkata",
+    "imagePath": "assets/images/states/west_bengal.jpg",
+    "featuredCraft": "Kantha Embroidery & Terracotta",
+    "craftSubtitle": "Bankura, Shantiniketan & Murshidabad",
+    "giCraftsCount": 21,
+    "registeredArtisans": 54000,
+    "culturalIntro": "West Bengal is celebrated for artistic soulfulness: legendary Bankura terracotta horses, Kantha running-stitch quilts, Jamdani muslin weaves, Dokra metal castings, and Shantiniketan leather crafts.",
+    "history": "Rural Bengal women transformed discarded sarees into storytelling Kantha masterpieces, while potters of Panchmura developed iconic long-necked terracotta horse sculptures.",
+    "languages": [
+      "Bengali",
+      "English",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Kumbhakar Potters",
+      "Tanti Weavers",
+      "Sutradhar Sculptors"
+    ],
+    "tourismHighlights": [
+      "Victoria Memorial Kolkata",
+      "Sundarbans",
+      "Darjeeling Tea Gardens",
+      "Bishnupur Temples"
+    ],
+    "famousFestivals": [
+      "Durga Puja",
+      "Poila Boishakh",
+      "Poush Mela Shantiniketan"
+    ],
+    "famousCuisine": [
+      "Rasgulla",
+      "Machher Jhol",
+      "Mishti Doi",
+      "Kolkata Biryani"
+    ]
+  },
+  {
+    "code": "IN-MP",
+    "name": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "imagePath": "assets/images/states/madhya_pradesh.jpg",
+    "featuredCraft": "Gond Painting & Chanderi",
+    "craftSubtitle": "Chanderi, Dindori & Maheshwar",
+    "giCraftsCount": 16,
+    "registeredArtisans": 38000,
+    "culturalIntro": "Heartland India's art spans sacred Gond tribal paintings depicting forest spirits, delicate gossamer Chanderi and Maheshwari weaves, Bagh block printing, and Bell Metal casting.",
+    "history": "Pardhan Gond bards painted sacred dots and lines on mud walls to record tribal folklore, while Maharani Ahilyabai Holkar patronized Maheshwari sari looms.",
+    "languages": [
+      "Hindi",
+      "Gondi",
+      "Malvi",
+      "Bundeli"
+    ],
+    "traditionalCommunities": [
+      "Gond Artists",
+      "Koli Weavers",
+      "Bagh Printers"
+    ],
+    "tourismHighlights": [
+      "Khajuraho Temples",
+      "Sanchi Stupa",
+      "Bhimbetka Caves",
+      "Kanha Tiger Reserve"
+    ],
+    "famousFestivals": [
+      "Khajuraho Dance Festival",
+      "Lokrang Bhopal",
+      "Bhagoria Haat"
+    ],
+    "famousCuisine": [
+      "Poha Jalebi",
+      "Bhutte Ka Kees",
+      "Dal Bafla"
+    ]
+  },
+  {
+    "code": "IN-JK",
+    "name": "Jammu & Kashmir",
+    "capital": "Srinagar",
+    "imagePath": "assets/images/states/kashmir.jpg",
+    "featuredCraft": "Pashmina & Papier-Mâché",
+    "craftSubtitle": "Srinagar, Anantnag & Budgam",
+    "giCraftsCount": 14,
+    "registeredArtisans": 32000,
+    "culturalIntro": "Kashmir is renowned for gossamer Changthangi Pashmina shawls, hand-painted Papier-Mâché decor, Sozni needlework, Walnut wood carving, and hand-knotted silk carpets.",
+    "history": "Introduced by Mir Sayyid Ali Hamadani in the 14th century, Kashmiri artisans combined Persian elegance with Himalayan natural beauty.",
+    "languages": [
+      "Kashmiri",
+      "Urdu",
+      "Dogri",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Kashmiri Weavers",
+      "Sakhta Artisans",
+      "Wood Carvers"
+    ],
+    "tourismHighlights": [
+      "Dal Lake Srinagar",
+      "Gulmarg Meadows",
+      "Pahalgam Valley",
+      "Shalimar Bagh"
+    ],
+    "famousFestivals": [
+      "Tulip Festival",
+      "Shikara Festival",
+      "Hemis Festival"
+    ],
+    "famousCuisine": [
+      "Rogan Josh",
+      "Kahwa Tea",
+      "Modur Pahad",
+      "Dum Aloo"
+    ]
+  },
+  {
+    "code": "IN-OR",
+    "name": "Odisha",
+    "capital": "Bhubaneswar",
+    "imagePath": "assets/images/states/odisha.jpg",
+    "featuredCraft": "Pattachitra & Silver Filigree",
+    "craftSubtitle": "Raghurajpur, Cuttack & Sambalpur",
+    "giCraftsCount": 19,
+    "registeredArtisans": 41000,
+    "culturalIntro": "Odisha is home to Raghurajpur heritage crafts village, sacred Jagannath Pattachitra scroll paintings, delicate Tarakasi silver filigree from Cuttack, and Sambalpuri Ikat handlooms.",
+    "history": "Pattachitra painters (Chitrakars) served Lord Jagannath temple rituals since the 12th century, creating vibrant palm-leaf and cloth paintings using mineral colors.",
+    "languages": [
+      "Odia",
+      "Hindi",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Chitrakar Painters",
+      "Rana Weavers",
+      "Bania Silver Smiths"
+    ],
+    "tourismHighlights": [
+      "Konark Sun Temple",
+      "Puri Jagannath Temple",
+      "Chilika Lake",
+      "Udayagiri Caves"
+    ],
+    "famousFestivals": [
+      "Ratha Yatra Puri",
+      "Raja Parba",
+      "Konark Dance Festival"
+    ],
+    "famousCuisine": [
+      "Pakhala Bhata",
+      "Chhena Poda",
+      "Dalma",
+      "Rasabali"
+    ]
+  },
+  {
+    "code": "IN-KA",
+    "name": "Karnataka",
+    "capital": "Bengaluru",
+    "imagePath": "assets/images/states/karnataka.jpg",
+    "featuredCraft": "Channapatna Toys & Mysore Silk",
+    "craftSubtitle": "Channapatna, Mysore & Bidar",
+    "giCraftsCount": 26,
+    "registeredArtisans": 49000,
+    "culturalIntro": "Karnataka features non-toxic lacquerware Channapatna wooden toys, Mysore mulberry silk weaves, Bidriware zinc-copper silver inlay artifacts, and Kinhal wooden crafts.",
+    "history": "Tipu Sultan invited Persian artisans to Channapatna in the 18th century to train local woodworkers in vegetable-dyed lacquer turning.",
+    "languages": [
+      "Kannada",
+      "Tulu",
+      "Hindi",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Bawa Wood Turners",
+      "Mysore Silk Weavers",
+      "Bidri Artisans"
+    ],
+    "tourismHighlights": [
+      "Mysore Palace",
+      "Hampi Ruins",
+      "Coorg Hills",
+      "Gol Gumbaz Bijapur"
+    ],
+    "famousFestivals": [
+      "Mysore Dasara",
+      "Kambala",
+      "Hampi Utsav"
+    ],
+    "famousCuisine": [
+      "Bisi Bele Bath",
+      "Mysore Pak",
+      "Maddur Vada",
+      "Neer Dosa"
+    ]
+  },
+  {
+    "code": "IN-TN",
+    "name": "Tamil Nadu",
+    "capital": "Chennai",
+    "imagePath": "assets/images/states/tamil_nadu.jpg",
+    "featuredCraft": "Kanchipuram Silk & Tanjore Painting",
+    "craftSubtitle": "Kanchipuram, Thanjavur & Swamimalai",
+    "giCraftsCount": 29,
+    "registeredArtisans": 58000,
+    "culturalIntro": "Tamil Nadu boasts gold zari Kanchipuram silk sarees, gold-foil Tanjore sacred paintings, Swamimalai bronze icon casting, and Chettinad palm leaf baskets.",
+    "history": "Chola temple bronze casters developed lost-wax bronze techniques over 1,000 years ago, creating world-famous Nataraja bronze masterpieces.",
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Kanchi Weavers",
+      "Swamimalai Sthapatis",
+      "Tanjore Artists"
+    ],
+    "tourismHighlights": [
+      "Meenakshi Temple Madurai",
+      "Brihadeeswarar Temple",
+      "Mahabalipuram",
+      "Ooty"
+    ],
+    "famousFestivals": [
+      "Pongal",
+      "Jallikattu",
+      "Natyanjali Dance Festival"
+    ],
+    "famousCuisine": [
+      "Dosa & Sambar",
+      "Chettinad Chicken",
+      "Idli Vadai",
+      "Filter Coffee"
+    ]
+  },
+  {
+    "code": "IN-AS",
+    "name": "Assam",
+    "capital": "Dispur",
+    "imagePath": "assets/images/states/assam.jpg",
+    "featuredCraft": "Muga Silk & Bamboo Weaving",
+    "craftSubtitle": "Sualkuchi, Majuli & Nalbari",
+    "giCraftsCount": 11,
+    "registeredArtisans": 34000,
+    "culturalIntro": "Assam's craft heritage centers on golden Muga silk (found nowhere else on Earth), fine cane & bamboo basketry, Majuli wooden masks, and brass bell-metal utensils.",
+    "history": "Ahom royalty protected Muga silkworm cultivation, establishing Sualkuchi as the 'Manchester of Assam' for indigenous handloom weaves.",
+    "languages": [
+      "Assamese",
+      "Bodo",
+      "Bengali",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Sualkuchi Weavers",
+      "Majuli Satra Artisans",
+      "Morigaon Bamboo Weavers"
+    ],
+    "tourismHighlights": [
+      "Kaziranga National Park",
+      "Majuli Island",
+      "Kamakhya Temple",
+      "Tea Estates"
+    ],
+    "famousFestivals": [
+      "Bihu Festival",
+      "Ambubachi Mela",
+      "Majuli Music Festival"
+    ],
+    "famousCuisine": [
+      "Masor Tenga",
+      "Duck Curry",
+      "Pitha",
+      "Khar"
+    ]
+  },
+  {
+    "code": "IN-AP",
+    "name": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "imagePath": "assets/images/states/andhra_pradesh.jpg",
+    "featuredCraft": "Kalamkari & Kondapalli Toys",
+    "craftSubtitle": "Srikalahasti, Machilipatnam & Kondapalli",
+    "giCraftsCount": 17,
+    "registeredArtisans": 36000,
+    "culturalIntro": "Andhra Pradesh is renowned for freehand pen Kalamkari textile art, softwood Kondapalli dolls, Etikoppaka lacquer turnings, and Mangalagiri handlooms.",
+    "history": "Srikalahasti Kalamkari painters depicted Hindu epics on temple backdrops using bamboo pens (kalam) and natural vegetable dyes.",
+    "languages": [
+      "Telugu",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Kalamkari Artists",
+      "Aryakshatriya Toymakers",
+      "Mangalagiri Weavers"
+    ],
+    "tourismHighlights": [
+      "Tirupati Temple",
+      "Araku Valley",
+      "Borra Caves",
+      "Lepakshi Temple"
+    ],
+    "famousFestivals": [
+      "Sankranti",
+      "Ugadi",
+      "Tirupati Brahmotsavam"
+    ],
+    "famousCuisine": [
+      "Hyderabadi Biryani",
+      "Pesarattu",
+      "Gongura Pachadi",
+      "Pootharekulu"
+    ]
+  },
+  {
+    "code": "IN-BR",
+    "name": "Bihar",
+    "capital": "Patna",
+    "imagePath": "assets/images/states/bihar.jpg",
+    "featuredCraft": "Madhubani Painting & Sikki Grass",
+    "craftSubtitle": "Madhubani, Bhagalpur & Darbhanga",
+    "giCraftsCount": 15,
+    "registeredArtisans": 39000,
+    "culturalIntro": "Bihar is famous for intricate Madhubani (Mithila) wall and paper art, golden Sikki grass eco-crafts, Bhagalpuri Tussar silk, and Manjusha scroll art.",
+    "history": "Mithila women created Madhubani art on mud walls during weddings and festivals, using twigs, matchsticks, and natural mineral dyes.",
+    "languages": [
+      "Maithili",
+      "Bhojpuri",
+      "Magahi",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Mithila Women Artists",
+      "Bhagalpur Tussar Weavers",
+      "Sikki Craftswomen"
+    ],
+    "tourismHighlights": [
+      "Mahabodhi Temple Bodh Gaya",
+      "Nalanda University Ruins",
+      "Vaishali Stupa",
+      "Golghar Patna"
+    ],
+    "famousFestivals": [
+      "Chhath Puja",
+      "Sonepur Cattle Fair",
+      "Sama Chakeva"
+    ],
+    "famousCuisine": [
+      "Litti Chokha",
+      "Sattu Paratha",
+      "Anarsa",
+      "Khaja"
+    ]
+  },
+  {
+    "code": "IN-MH",
+    "name": "Maharashtra",
+    "capital": "Mumbai",
+    "imagePath": "assets/images/states/maharashtra.jpg",
+    "featuredCraft": "Warli Painting & Paithani Silk",
+    "craftSubtitle": "Paithan, Palghar & Kolhapur",
+    "giCraftsCount": 22,
+    "registeredArtisans": 47000,
+    "culturalIntro": "Maharashtra features tribal Warli rice-paste murals, regal gold-border Paithani silk sarees, Kolhapuri handcrafted leather footwear, and Sawantwadi lacquerware wooden toys.",
+    "history": "Warli indigenous tribes painted geometric white figures on red ochre hut walls to celebrate harvest, fertility, and Mother Nature.",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Warli Tribal Artists",
+      "Paithani Weavers",
+      "Chambhar Artisans"
+    ],
+    "tourismHighlights": [
+      "Ajanta & Ellora Caves",
+      "Gateway of India",
+      "Mahabaleshwar",
+      "Raigad Fort"
+    ],
+    "famousFestivals": [
+      "Ganesh Chaturthi",
+      "Gudi Padwa",
+      "Ellora Festival"
+    ],
+    "famousCuisine": [
+      "Puran Poli",
+      "Vada Pav",
+      "Misal Pav",
+      "Modak"
+    ]
+  },
+  {
+    "code": "IN-KL",
+    "name": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "imagePath": "assets/images/states/kerala.jpg",
+    "featuredCraft": "Aranmula Mirror & Coir Weaving",
+    "craftSubtitle": "Aranmula, Alleppey & Balaramapuram",
+    "giCraftsCount": 25,
+    "registeredArtisans": 41000,
+    "culturalIntro": "God's Own Country is famous for metallic metal alloy Aranmula Kannadi mirrors, natural coconut shell decor, Balaramapuram Kasavu cotton weaves, and Alleppey coir carpets.",
+    "history": "Aranmula metallurgists preserved a secret copper-tin alloy technique for centuries to cast front-reflecting metal mirrors without glass.",
+    "languages": [
+      "Malayalam",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Aranmula Metal Casters",
+      "Coir Weavers",
+      "Balaramapuram Weavers"
+    ],
+    "tourismHighlights": [
+      "Alleppey Backwaters",
+      "Munnar Tea Hills",
+      "Kochi Fort",
+      "Wayanad Forests"
+    ],
+    "famousFestivals": [
+      "Onam",
+      "Vishu",
+      "Thrissur Pooram"
+    ],
+    "famousCuisine": [
+      "Appam & Stew",
+      "Kerala Sadya",
+      "Puttu & Kadala",
+      "Fish Molee"
+    ]
+  },
+  {
+    "code": "IN-PB",
+    "name": "Punjab",
+    "capital": "Chandigarh",
+    "imagePath": "assets/images/states/punjab.jpg",
+    "featuredCraft": "Phulkari Embroidery & Jutti",
+    "craftSubtitle": "Patiala, Amritsar & Ludhiana",
+    "giCraftsCount": 8,
+    "registeredArtisans": 29000,
+    "culturalIntro": "Punjab's vibrant craft heritage shines through colourful silk-thread Phulkari geometric embroidery on khadi, hand-stitched leather Juttis, and brass utensils from Jandiala Guru.",
+    "history": "Punjabi mothers and grandmothers embroidered Phulkari ('flower work') dupattas as bridal heirlooms for daughters.",
+    "languages": [
+      "Punjabi",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Phulkari Embroidery Women",
+      "Jutti Makers",
+      "Thatheras Brass Smiths"
+    ],
+    "tourismHighlights": [
+      "Golden Temple Amritsar",
+      "Wagah Border",
+      "Jallianwala Bagh",
+      "Qila Mubarak Patiala"
+    ],
+    "famousFestivals": [
+      "Baisakhi",
+      "Lohri",
+      "Hola Mohalla"
+    ],
+    "famousCuisine": [
+      "Makki di Roti & Sarson da Saag",
+      "Butter Chicken",
+      "Amritsari Kulcha",
+      "Lassi"
+    ]
+  },
+  {
+    "code": "IN-CT",
+    "name": "Chhattisgarh",
+    "capital": "Raipur",
+    "imagePath": "assets/images/states/chhattisgarh.jpg",
+    "featuredCraft": "Dhokra Metal & Kosa Silk",
+    "craftSubtitle": "Bastar, Champa & Kondagaon",
+    "giCraftsCount": 9,
+    "registeredArtisans": 27000,
+    "culturalIntro": "Chhattisgarh's tribal heartland is world-famous for lost-wax Dhokra bronze casting, wild Kosa silk handlooms, terracotta tribal deities, and iron craft.",
+    "history": "Ghadwa tribal casters used beeswax and river soil to cast 4,000-year-old lost-wax tribal idols and animal figurines.",
+    "languages": [
+      "Chhattisgarhi",
+      "Gondi",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Ghadwa Dhokra Artisans",
+      "Kosa Silk Weavers",
+      "Jharoka Metal Smiths"
+    ],
+    "tourismHighlights": [
+      "Chitrakote Falls",
+      "Bastar Palace",
+      "Kanger Valley National Park",
+      "Sirpur Temples"
+    ],
+    "famousFestivals": [
+      "Bastar Dussehra",
+      "Madai Fair",
+      "Teeja"
+    ],
+    "famousCuisine": [
+      "Chila",
+      "Farah",
+      "Bora",
+      "Muthia"
+    ]
+  },
+  {
+    "code": "IN-JH",
+    "name": "Jharkhand",
+    "capital": "Ranchi",
+    "imagePath": "assets/images/states/jharkhand.jpg",
+    "featuredCraft": "Sohrai-Khovar & Pyhkar Painting",
+    "craftSubtitle": "Hazaribagh, Dumka & Ranchi",
+    "giCraftsCount": 6,
+    "registeredArtisans": 22000,
+    "culturalIntro": "Jharkhand's indigenous heritage features Sohrai harvest and Khovar nuptial mud mural wall art, Pyhkar scroll paintings, bamboo crafts, and Tussar silk.",
+    "history": "Tribal Santhal and Kurmi women paint earthen walls with natural white clay, red manganese, and yellow ochre to honor natural forest spirits.",
+    "languages": [
+      "Santhali",
+      "Hindi",
+      "Kurmali",
+      "Nagpuri"
+    ],
+    "traditionalCommunities": [
+      "Santhal Artists",
+      "Turi Bamboo Weavers",
+      "Kukri Woodcrafts"
+    ],
+    "tourismHighlights": [
+      "Hundru Falls",
+      "Betla National Park",
+      "Parasnath Hill",
+      "Deoghar Baidyanath Temple"
+    ],
+    "famousFestivals": [
+      "Sarhul",
+      "Karma Festival",
+      "Sohrai"
+    ],
+    "famousCuisine": [
+      "Dhuska",
+      "Rugra Curry",
+      "Pittha",
+      "Arsa Roti"
+    ]
+  },
+  {
+    "code": "IN-HP",
+    "name": "Himachal Pradesh",
+    "capital": "Shimla",
+    "imagePath": "assets/images/states/himachal_pradesh.jpg",
+    "featuredCraft": "Kullu Shawls & Chamba Rumal",
+    "craftSubtitle": "Kullu, Chamba & Kangra",
+    "giCraftsCount": 10,
+    "registeredArtisans": 25000,
+    "culturalIntro": "Himachal Pradesh produces warm handwoven Kullu woollen shawls with geometric borders, double-sided needlework Chamba Rumals, and fine Kangra miniature paintings.",
+    "history": "Chamba queens and court maidens embroidered silk pictorial handkerchieves depicting Krishna Raslila scenes using unspun silk threads.",
+    "languages": [
+      "Pahari",
+      "Hindi",
+      "Kangri"
+    ],
+    "traditionalCommunities": [
+      "Kullu Weavers",
+      "Chamba Embroiderers",
+      "Kangra Painters"
+    ],
+    "tourismHighlights": [
+      "Rohtang Pass",
+      "Dharamshala McLeodGanj",
+      "Spiti Valley",
+      "Shimla Ridge"
+    ],
+    "famousFestivals": [
+      "Kullu Dussehra",
+      "Mandi Shivratri",
+      "Minjar Fair"
+    ],
+    "famousCuisine": [
+      "Dham",
+      "Siddu",
+      "Madra",
+      "Babru"
+    ]
+  },
+  {
+    "code": "IN-UT",
+    "name": "Uttarakhand",
+    "capital": "Dehradun",
+    "imagePath": "assets/images/states/uttarakhand.jpg",
+    "featuredCraft": "Aipan Art & Ringaal Bamboo",
+    "craftSubtitle": "Almora, Pithoragarh & Chamoli",
+    "giCraftsCount": 8,
+    "registeredArtisans": 21000,
+    "culturalIntro": "Land of Gods features traditional geometric red-and-white Aipan ritual floor art, Ringaal dwarf bamboo baskets, and Almora copperware.",
+    "history": "Kumaoni women paint red clay (Geru) surfaces with white rice-paste (Biswar) to create sacred geometric Aipan patterns for house thresholds.",
+    "languages": [
+      "Garhwali",
+      "Kumaoni",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Kumaoni Aipan Artists",
+      "Ringaal Weavers",
+      "Tamta Copper Smiths"
+    ],
+    "tourismHighlights": [
+      "Kedarnath & Badrinath",
+      "Naini Lake Nainital",
+      "Valley of Flowers",
+      "Rishikesh"
+    ],
+    "famousFestivals": [
+      "Nanda Devi Raj Jat Mela",
+      "Phool Dei",
+      "Ganga Aarti Haridwar"
+    ],
+    "famousCuisine": [
+      "Kafuli",
+      "Bhatt ki Churkani",
+      "Aloo ke Gutke",
+      "Singori"
+    ]
+  },
+  {
+    "code": "IN-GA",
+    "name": "Goa",
+    "capital": "Panaji",
+    "imagePath": "assets/images/states/goa.jpg",
+    "featuredCraft": "Azulejos Tiles & Coconut Shell Art",
+    "craftSubtitle": "Panaji, Margao & Bicholim",
+    "giCraftsCount": 5,
+    "registeredArtisans": 12000,
+    "culturalIntro": "Goa's unique Indo-Portuguese heritage shines in glazed blue ceramic Azulejos hand-painted tiles, handcrafted coconut shell decor, and Bicholim clay pottery.",
+    "history": "Portuguese tile painting blended with Goan coastal motifs created iconic hand-painted ceramic house nameplates and wall plaques.",
+    "languages": [
+      "Konkani",
+      "English",
+      "Marathi",
+      "Portuguese"
+    ],
+    "traditionalCommunities": [
+      "Goan Tile Painters",
+      "Coconut Shell Craftspeople",
+      "Potters"
+    ],
+    "tourismHighlights": [
+      "Basilica of Bom Jesus",
+      "Calangute Beach",
+      "Dudsagar Waterfalls",
+      "Fort Aguada"
+    ],
+    "famousFestivals": [
+      "Goa Carnival",
+      "Shigmo",
+      "Sunburn Festival"
+    ],
+    "famousCuisine": [
+      "Goan Fish Curry",
+      "Vindaloo",
+      "Bebinca",
+      "Xacuti"
+    ]
+  },
+  {
+    "code": "IN-SK",
+    "name": "Sikkim",
+    "capital": "Gangtok",
+    "imagePath": "assets/images/states/sikkim.jpg",
+    "featuredCraft": "Thangka Painting & Carpet Weaving",
+    "craftSubtitle": "Gangtok, Pelling & Namchi",
+    "giCraftsCount": 4,
+    "registeredArtisans": 11000,
+    "culturalIntro": "Sikkim's Himalayan Buddhist art features hand-painted silk Thangka scrolls, Choktse carved wooden tables, and hand-knotted woollen dragon carpets.",
+    "history": "Buddhist monks and Bhutia master painters preserved sacred iconometric rules to paint spiritual Thangkas using gold leaf and crushed mineral pigments.",
+    "languages": [
+      "Nepali",
+      "Bhutia",
+      "Lepcha",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Bhutia Carpet Weavers",
+      "Thangka Painters",
+      "Lepcha Wood Carvers"
+    ],
+    "tourismHighlights": [
+      "Nathula Pass",
+      "Tsomgo Lake",
+      "Rumtek Monastery",
+      "Gurudongmar Lake"
+    ],
+    "famousFestivals": [
+      "Losar Tibetan New Year",
+      "Lhabab Duchen",
+      "Pang Lhabsol"
+    ],
+    "famousCuisine": [
+      "Momos",
+      "Thukpa",
+      "Phagshapa",
+      "Gundruk"
+    ]
+  },
+  {
+    "code": "IN-ME",
+    "name": "Meghalaya",
+    "capital": "Shillong",
+    "imagePath": "assets/images/states/meghalaya.jpg",
+    "featuredCraft": "Cane Mat Weaving & Eri Silk",
+    "craftSubtitle": "Shillong, Tura & Jowai",
+    "giCraftsCount": 5,
+    "registeredArtisans": 14000,
+    "culturalIntro": "Abode of Clouds is famous for Trente/Cane Tlieng mats, eco-friendly peace Eri silk (Ahinsa silk), and Khasi bamboo craft.",
+    "history": "Matriarchal Khasi and Garo tribes cultivate wild Eri silkworms that leave cocoons naturally without harming the moth, yielding soft thermal silk.",
+    "languages": [
+      "Khasi",
+      "Garo",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Khasi Cane Weavers",
+      "Garo Eri Spinners",
+      "Jaintia Potters"
+    ],
+    "tourismHighlights": [
+      "Living Root Bridges Cherrapunji",
+      "Dawki River",
+      "Nohkalikai Falls",
+      "Shillong Peak"
+    ],
+    "famousFestivals": [
+      "Shad Suk Mynsiem",
+      "Nongkrem Dance",
+      "Wangala Festival"
+    ],
+    "famousCuisine": [
+      "Jadoh",
+      "Dohneiiong",
+      "Tungrymbai",
+      "Nakham Bitchi"
+    ]
+  },
+  {
+    "code": "IN-MN",
+    "name": "Manipur",
+    "capital": "Imphal",
+    "imagePath": "assets/images/states/manipur.jpg",
+    "featuredCraft": "Longpi Black Pottery & Shaphee Lanphee",
+    "craftSubtitle": "Ukhrul, Imphal & Bishnupur",
+    "giCraftsCount": 7,
+    "registeredArtisans": 18000,
+    "culturalIntro": "Manipur features black Serpentinite stone-and-clay Longpi cookware made without potter wheels, Shaphee Lanphee embroidered shawls, and Kauna reed grass mats.",
+    "history": "Tangkhul Naga artisans in Longpi village burnish black clay cookware with wild leaves to create chemical-free heat-retaining stone pottery.",
+    "languages": [
+      "Manipuri (Meiteilon)",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Tangkhul Longpi Potters",
+      "Meitei Weavers",
+      "Kauna Reed Craftspeople"
+    ],
+    "tourismHighlights": [
+      "Loktak Floating Lake",
+      "Keibul Lamjao National Park",
+      "Kangla Fort",
+      "Imphal War Cemetery"
+    ],
+    "famousFestivals": [
+      "Yaoshang (Holi)",
+      "Sangai Festival",
+      "Lai Haraoba"
+    ],
+    "famousCuisine": [
+      "Eromba",
+      "Singju",
+      "Chamthong",
+      "Chak-Hao Kheer"
+    ]
+  },
+  {
+    "code": "IN-TR",
+    "name": "Tripura",
+    "capital": "Agartala",
+    "imagePath": "assets/images/states/tripura.jpg",
+    "featuredCraft": "Bamboo Furniture & Risa Textile",
+    "craftSubtitle": "Agartala, Kailashahar & Udaipur",
+    "giCraftsCount": 4,
+    "registeredArtisans": 16000,
+    "culturalIntro": "Tripura is renowned for exquisite fine bamboo mesh screens, bamboo root art, handwoven tribal Risa chest wraps, and cane lamps.",
+    "history": "Royal Tripuri weavers handloom intricate geometric Risa fabrics for ceremonial honor, while village craftsmen fashion bamboo split decor.",
+    "languages": [
+      "Kokborok",
+      "Bengali",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Tripuri Risa Weavers",
+      "Reang Bamboo Artisans"
+    ],
+    "tourismHighlights": [
+      "Ujjayanta Palace",
+      "Unakoti Rock Carvings",
+      "Neermahal Water Palace"
+    ],
+    "famousFestivals": [
+      "Kharchi Puja",
+      "Garia Puja",
+      "Orange & Tourism Festival"
+    ],
+    "famousCuisine": [
+      "Mui Borok",
+      "Gudok",
+      "Chakhwi",
+      "Mosdeng Serma"
+    ]
+  },
+  {
+    "code": "IN-NL",
+    "name": "Nagaland",
+    "capital": "Kohima",
+    "imagePath": "assets/images/states/nagaland.jpg",
+    "featuredCraft": "Naga Tribal Shawls & Wood Carving",
+    "craftSubtitle": "Kohima, Mokokchung & Mon",
+    "giCraftsCount": 4,
+    "registeredArtisans": 15000,
+    "culturalIntro": "Nagaland features distinctive Naga tribal loin-loom shawls (Chakhesang, Angami), hand-carved wooden tribal drinking mugs, and beadwork.",
+    "history": "Each Naga tribe weaves specific bold red, black, and white woollen shawl patterns signifying warrior achievements and clan identity.",
+    "languages": [
+      "English",
+      "Nagamese",
+      "Ao",
+      "Angami"
+    ],
+    "traditionalCommunities": [
+      "Angami Loin-loom Weavers",
+      "Konyak Wood Carvers"
+    ],
+    "tourismHighlights": [
+      "Dzukou Valley",
+      "Hornbill Festival Naga Heritage Village",
+      "Kohima War Cemetery"
+    ],
+    "famousFestivals": [
+      "Hornbill Festival",
+      "Moatsu Festival",
+      "Sekrenyi"
+    ],
+    "famousCuisine": [
+      "Smoked Pork with Bamboo Shoot",
+      "Axone Curry",
+      "Zutho Rice Beer"
+    ]
+  },
+  {
+    "code": "IN-MZ",
+    "name": "Mizoram",
+    "capital": "Aizawl",
+    "imagePath": "assets/images/states/mizoram.jpg",
+    "featuredCraft": "Puan Handloom Weave & Bamboo Baskets",
+    "craftSubtitle": "Aizawl, Lunglei & Champhai",
+    "giCraftsCount": 5,
+    "registeredArtisans": 13000,
+    "culturalIntro": "Mizoram is celebrated for colorful traditional Puan handloom skirts, intricately woven bamboo hats (Khuang), and cane organisers.",
+    "history": "Every Mizo girl traditional learns loin-loom weaving to craft her own Puanchei bridal dress.",
+    "languages": [
+      "Mizo",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Mizo Puan Weavers",
+      "Bamboo Craftspeople"
+    ],
+    "tourismHighlights": [
+      "Reiek Tlang",
+      "Phawngpui Blue Mountain",
+      "Tamdil Lake"
+    ],
+    "famousFestivals": [
+      "Chapchar Kut",
+      "Mim Kut",
+      "Pawl Kut"
+    ],
+    "famousCuisine": [
+      "Bai Vegetable Stew",
+      "Vawksa Rep Smoked Pork",
+      "Sawhchiar"
+    ]
+  },
+  {
+    "code": "IN-AR",
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "imagePath": "assets/images/states/arunachal_pradesh.jpg",
+    "featuredCraft": "Monpa Carpet & Apatani Weaving",
+    "craftSubtitle": "Tawang, Ziro & Bomdila",
+    "giCraftsCount": 6,
+    "registeredArtisans": 14000,
+    "culturalIntro": "Land of Dawn-Lit Mountains features Monpa dragon carpets, Apatani woven jacket fabrics, wood carving, and bamboo masks.",
+    "history": "Buddhist Monpa weavers of Tawang spin sheep wool to knot dragon carpets dyed with natural madder and indigo.",
+    "languages": [
+      "English",
+      "Nishi",
+      "Monpa",
+      "Apatani"
+    ],
+    "traditionalCommunities": [
+      "Monpa Carpet Weavers",
+      "Apatani Weavers",
+      "Wancho Wood Carvers"
+    ],
+    "tourismHighlights": [
+      "Tawang Monastery",
+      "Ziro Valley",
+      "Sela Pass",
+      "Namdapha National Park"
+    ],
+    "famousFestivals": [
+      "Torgya Tawang",
+      "Myoko Ziro",
+      "Losar"
+    ],
+    "famousCuisine": [
+      "Zan Millet Porridge",
+      "Pika Bila",
+      "Lukter",
+      "Apong Rice Beer"
+    ]
+  },
+  {
+    "code": "IN-HR",
+    "name": "Haryana",
+    "capital": "Chandigarh",
+    "imagePath": "assets/images/states/haryana.jpg",
+    "featuredCraft": "Panipat Handloom & Terracotta",
+    "craftSubtitle": "Panipat, Rohtak & Surajkund",
+    "giCraftsCount": 5,
+    "registeredArtisans": 24000,
+    "culturalIntro": "Haryana is known as India's handloom capital at Panipat for heavy durrie floor rugs, clay kulhads, and wooden charpai frames.",
+    "history": "Panipat pit-loom weavers produced heavy cotton floor coverings and quilts for army barracks and royal camps.",
+    "languages": [
+      "Haryanvi",
+      "Hindi"
+    ],
+    "traditionalCommunities": [
+      "Panipat Durrie Weavers",
+      "Kumbhar Potters"
+    ],
+    "tourismHighlights": [
+      "Surajkund Craft Mela",
+      "Kurukshetra Brahma Sarovar",
+      "Sultanpur Bird Sanctuary"
+    ],
+    "famousFestivals": [
+      "Surajkund International Crafts Mela",
+      "Gugga Naumi",
+      "Teej"
+    ],
+    "famousCuisine": [
+      "Bajra Roti with White Butter",
+      "Kachri ki Sabzi",
+      "Mithe Chawal"
+    ]
+  },
+  {
+    "code": "IN-LA",
+    "name": "Ladakh",
+    "capital": "Leh",
+    "imagePath": "assets/images/states/ladakh.jpg",
+    "featuredCraft": "Pashmina (Pashm) & Wood Carving",
+    "craftSubtitle": "Leh, Changthang & Nubra",
+    "giCraftsCount": 3,
+    "registeredArtisans": 8000,
+    "culturalIntro": "High altitude desert Ladakh produces world-class Changthangi raw Pashmina wool, carved Choktse tables, and copper prayer wheels.",
+    "history": "Nomadic Changpa herders tend Changthangi goats at 14,000 ft altitude to harvest ultrafine 12-micron Pashm wool fibers.",
+    "languages": [
+      "Ladakhi",
+      "Tibetan",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Changpa Herders",
+      "Ladakhi Wood Carvers",
+      "Metal Smiths"
+    ],
+    "tourismHighlights": [
+      "Pangong Tso Lake",
+      "Nubra Valley",
+      "Hemis Monastery",
+      "Diskit Monastery"
+    ],
+    "famousFestivals": [
+      "Hemis Festival",
+      "Ladakh Festival",
+      "Dosmoche"
+    ],
+    "famousCuisine": [
+      "Skyu",
+      "Chutagi",
+      "Butter Tea",
+      "Tsampa"
+    ]
+  },
+  {
+    "code": "IN-LD",
+    "name": "Lakshadweep",
+    "capital": "Kavaratti",
+    "imagePath": "assets/images/states/lakshadweep.jpg",
+    "featuredCraft": "Coconut Shell Decor & Coir Weaving",
+    "craftSubtitle": "Kavaratti, Minicoy & Agatti",
+    "giCraftsCount": 2,
+    "registeredArtisans": 3000,
+    "culturalIntro": "Tropical Lakshadweep islands specialize in polished coconut shell bowls, hand-spun coir rope mats, and seashell ornaments.",
+    "history": "Island craftspeople carve smooth coconut shells into eco-friendly drinking cups and bowls.",
+    "languages": [
+      "Mahl",
+      "Malayalam",
+      "English"
+    ],
+    "traditionalCommunities": [
+      "Coir Spinners",
+      "Coconut Carvers"
+    ],
+    "tourismHighlights": [
+      "Agatti Island Coral Reef",
+      "Bangaram Atoll",
+      "Kavaratti Marine Aquarium"
+    ],
+    "famousFestivals": [
+      "Eid ul Fitr",
+      "Milad un Nabi"
+    ],
+    "famousCuisine": [
+      "Kilanji",
+      "Mus Kavaab",
+      "Coconut Fish Curry"
+    ]
+  }
+]

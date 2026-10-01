@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Explore States",
+    "subtitle": "Interactive map & state-wise craft catalog",
+    "iconName": "map",
+    "order": 1,
+    "backgroundImage": "assets/images/discover/explore_states.jpg"
+  },
+  {
+    "title": "GI Heritage",
+    "subtitle": "Geographically Indicated authentic crafts of India",
+    "iconName": "verified",
+    "order": 2,
+    "backgroundImage": "assets/images/discover/gi_heritage.jpg"
+  },
+  {
+    "title": "Living Traditions",
+    "subtitle": "Ancient techniques preserved by master artisans",
+    "iconName": "history_edu",
+    "order": 3,
+    "backgroundImage": "assets/images/discover/living_traditions.jpg"
+  },
+  {
+    "title": "Festival Calendar",
+    "subtitle": "Cultural events & seasonal craft showcases",
+    "iconName": "event",
+    "order": 4,
+    "backgroundImage": "assets/images/discover/festival_calendar.jpg"
+  },
+  {
+    "title": "Artisan Villages",
+    "subtitle": "Direct connect with craft clusters across Bharat",
+    "iconName": "storefront",
+    "order": 5,
+    "backgroundImage": "assets/images/discover/artisan_villages.jpg"
+  },
+  {
+    "title": "Heritage Timeline",
+    "subtitle": "Evolution of Indian handicrafts across dynasties",
+    "iconName": "timeline",
+    "order": 6,
+    "backgroundImage": "assets/images/discover/heritage_timeline.jpg"
+  },
+  {
+    "title": "Women's Craft Collectives",
+    "subtitle": "Empowering rural women artisans and self-help groups",
+    "iconName": "groups",
+    "order": 7,
+    "backgroundImage": "assets/images/discover/women_collectives.jpg"
+  },
+  {
+    "title": "UNESCO Traditions",
+    "subtitle": "Intangible cultural heritage of humanity from India",
+    "iconName": "auto_awesome",
+    "order": 8,
+    "backgroundImage": "assets/images/discover/unesco_traditions.jpg"
+  }
+]

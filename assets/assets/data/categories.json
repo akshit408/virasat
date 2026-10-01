@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cat_textiles",
+    "name": "Textiles & Weaves",
+    "iconName": "style",
+    "themeColor": "#B55239",
+    "description": "Exquisite handwoven silks, tie-dyes, block prints, and traditional looms from across India."
+  },
+  {
+    "id": "cat_pottery",
+    "name": "Pottery & Ceramics",
+    "iconName": "water_drop",
+    "themeColor": "#C89B3C",
+    "description": "Ancient terracotta, blue glaze pottery, and black clay earthenware crafted by master potters."
+  },
+  {
+    "id": "cat_paintings",
+    "name": "Paintings & Folk Art",
+    "iconName": "palette",
+    "themeColor": "#556B5D",
+    "description": "Indigenous tribal canvas, scroll paintings, and sacred folk art traditions passed through generations."
+  },
+  {
+    "id": "cat_jewellery",
+    "name": "Jewellery",
+    "iconName": "diamond",
+    "themeColor": "#8C2F1D",
+    "description": "Traditional Kundan, Meenakari, silver filigree, and tribal brass ornament heritage."
+  },
+  {
+    "id": "cat_bamboo",
+    "name": "Bamboo & Cane",
+    "iconName": "forest",
+    "themeColor": "#2C5E7A",
+    "description": "Eco-conscious handcrafted bamboo basketry, furniture, and cane weaves from North-East India."
+  },
+  {
+    "id": "cat_woodcraft",
+    "name": "Woodcraft",
+    "iconName": "grid_view",
+    "themeColor": "#7E9786",
+    "description": "Intricate sandalwood carving, rosewood inlay work, and traditional wooden architectural decor."
+  },
+  {
+    "id": "cat_metalcraft",
+    "name": "Metal Craft",
+    "iconName": "hardware",
+    "themeColor": "#D97960",
+    "description": "Lost-wax Dhokra casting, brassware, Bidriware silver inlay, and bell-metal casting."
+  },
+  {
+    "id": "cat_stonecarving",
+    "name": "Stone Carving",
+    "iconName": "landscape",
+    "themeColor": "#6D625B",
+    "description": "Sculptural marble inlay, soapstone carving, and granite temple craft architecture."
+  },
+  {
+    "id": "cat_leathercraft",
+    "name": "Leather Craft",
+    "iconName": "work",
+    "themeColor": "#9E9288",
+    "description": "Traditional Mojari footwear, Kolhapuri chappals, and hand-embossed leather artifacts."
+  },
+  {
+    "id": "cat_embroidery",
+    "name": "Embroidery",
+    "iconName": "auto_fix_high",
+    "themeColor": "#B55239",
+    "description": "Intricate needlework traditions including Chikankari, Phulkari, Kantha, and Toda embroidery."
+  },
+  {
+    "id": "cat_homedecor",
+    "name": "Home Decor",
+    "iconName": "home",
+    "themeColor": "#C89B3C",
+    "description": "Handmade wall hangings, brass lamps, papier-mâché vases, and artisan living space accents."
+  },
+  {
+    "id": "cat_toys",
+    "name": "Toys & Dolls",
+    "iconName": "smart_toy",
+    "themeColor": "#556B5D",
+    "description": "Lacquerware wooden toys, Kondapalli wooden figurines, and eco-friendly heritage playcraft."
+  },
+  {
+    "id": "cat_musical",
+    "name": "Musical Instruments",
+    "iconName": "music_note",
+    "themeColor": "#8C2F1D",
+    "description": "Handcrafted sitars, veenas, dhols, ektaras, and folk musical instruments made by master craftsmen."
+  },
+  {
+    "id": "cat_handloom",
+    "name": "Handloom",
+    "iconName": "checkroom",
+    "themeColor": "#2C5E7A",
+    "description": "Authentic handloom sarees, dupattas, stoles, and yardage woven on traditional pit looms."
+  },
+  {
+    "id": "cat_ecofriendly",
+    "name": "Eco-Friendly Crafts",
+    "iconName": "eco",
+    "themeColor": "#556B5D",
+    "description": "Sustainable Sikki grass, coconut shell art, jute weaves, and zero-waste natural craft innovations."
+  }
+]
