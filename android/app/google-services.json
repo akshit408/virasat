@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511633005938",
+    "project_id": "virasat-7cf70",
+    "storage_bucket": "virasat-7cf70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511633005938:android:13c552a607d4fbfd4fd1eb",
+        "android_client_info": {
+          "package_name": "com.virasat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511633005938-1teh1m4v6k22sfkan1tvpo5ahsi100i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virasat",
+            "certificate_hash": "9e77ef1f2b4d7a8f0f6742f668fd0f93123d2ae2"
+          }
+        },
+        {
+          "client_id": "511633005938-fvafo70n94ik10i5dnr2r7e5secqme3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSw1g2YHMhIpAQEX7RXHUf13L_R7A8_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511633005938-fvafo70n94ik10i5dnr2r7e5secqme3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

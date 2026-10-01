@@ -1,0 +1,9 @@
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logos/virasat_v_mark.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#FFF8F1"
+  adaptive_icon_foreground: "assets/logos/virasat_logo_adaptive.png"
+
+

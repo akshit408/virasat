@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#FFF8F1"
+  image: "assets/logos/virasat_splash_icon.png"
+  
+  android_12:
+    image: "assets/logos/virasat_splash_icon.png"
+    icon_background_color: "#FFF8F1"
+    color: "#FFF8F1"
+
+  web: false

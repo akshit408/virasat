@@ -1,0 +1,77 @@
+[
+  {
+    "tool": "story_generator",
+    "title": "Artisan Story & Heritage Generator",
+    "promptTemplate": "Generate an evocative 100-word heritage story in {language} for an artisan craft named \"{craftName}\" from {cityName}, {stateName}. Highlight its origin, traditional materials ({materials}), cultural significance, and artisan legacy.",
+    "supportedLanguages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Tamil",
+      "Bengali",
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ]
+  },
+  {
+    "tool": "smart_pricing",
+    "title": "Fair Trade Smart Pricing Calculator",
+    "promptTemplate": "Analyze labor hours ({hours}), material costs ({materialCost}), rarity score ({rarityScore}), GI certification status, and craft category \"{category}\" to calculate fair artisan payout and recommended retail price band in {language}.",
+    "supportedLanguages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Tamil",
+      "Bengali",
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ]
+  },
+  {
+    "tool": "voice_catalogue",
+    "title": "Voice-to-Listing Product Assistant",
+    "promptTemplate": "Transcribe rural artisan voice description in {language} for craft item \"{craftName}\". Automatically structure into title, material specs, price band, care instructions, and search tags.",
+    "supportedLanguages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Tamil",
+      "Bengali",
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ]
+  },
+  {
+    "tool": "translator",
+    "title": "Vernacular Heritage Translator",
+    "promptTemplate": "Translate craft description \"{sourceText}\" into {targetLanguage} preserving cultural nuances, technical artisan terminology, and emotional storytelling appeal.",
+    "supportedLanguages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Tamil",
+      "Bengali",
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ]
+  },
+  {
+    "tool": "image_enhancer",
+    "title": "Craft Studio Image Enhancer",
+    "promptTemplate": "Analyze craft photograph of \"{craftName}\" and generate AI enhancement prompt for studio lighting, background neutral isolation, motif highlighting, and authenticity tag placement.",
+    "supportedLanguages": [
+      "English",
+      "Hindi",
+      "Gujarati",
+      "Tamil",
+      "Bengali",
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ]
+  }
+]
